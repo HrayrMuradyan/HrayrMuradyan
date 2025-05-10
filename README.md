@@ -1,18 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hrayr 👋</h1>
 
-<!--
-**HrayrMuradyan/HrayrMuradyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrayrMuradyan)](https://github.com/anuraghazra/github-readme-stats)
+- 🧠 **Data Scientist** with a strong interest in turning data into actionable results  
+- 📊 Skilled in **machine learning**, **deep learning**, **data analysis**, **statistical analysis** and **visualization**  
+- 💬 Always ready to collaborate on open-source & innovative projects  
+- 📝 Currently working on the Capstone project of my Master's in Data Science degree at the University of British Columbia.
+
+---
+
+### 💼 Skills
+
+- Programming: Python, R, SQL  
+- ML/DS: scikit-learn, pandas, NumPy, tidyverse, TensorFlow, PyTorch
+- Cloud: AWS S3, AWS CLI, AWS EC2, AWS EMR + Apache Spark
+- Visualization: Matplotlib, Seaborn, Altair, ggplot2
+- Other: Git, Docker, OpenCV, Github Actions CI/CD
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HrayrMuradyan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HrayrMuradyan&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrayr-muradyan/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hrayrmuradyan20@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<!--   <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=About.me&logoColor=white" />
+  </a> -->
+</p>
+
