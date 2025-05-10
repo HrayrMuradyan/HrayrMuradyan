@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
----
 
 ### 🚀 About Me
 
@@ -13,27 +12,29 @@
 - 💬 Always ready to collaborate on open-source & innovative projects  
 - 📝 Currently working on the Capstone project of my Master's in Data Science degree at the University of British Columbia.
 
----
+<br>
+
 
 ### 💼 Skills
 
-- Programming: Python, R, SQL  
-- ML/DS: scikit-learn, pandas, NumPy, tidyverse, TensorFlow, PyTorch
-- Cloud: AWS S3, AWS CLI, AWS EC2, AWS EMR + Apache Spark
-- Visualization: Matplotlib, Seaborn, Altair, ggplot2
-- Other: Git, Docker, OpenCV, Github Actions CI/CD
+- **Programming Languages**: Python, R, SQL  
+- **Machine Learning/Data Science**: scikit-learn, pandas, NumPy, tidyverse, TensorFlow, PyTorch
+- **Cloud Computing**: Parquet, Pickle, AWS S3, AWS CLI, AWS EC2, AWS EMR + Apache Spark
+- **Visualization**: Matplotlib, Seaborn, Altair, ggplot2
+- **Other**: Git, Docker, OpenCV, Github Actions CI/CD
 
----
+<br>
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HrayrMuradyan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HrayrMuradyan&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+<br>
 
 ---
 
