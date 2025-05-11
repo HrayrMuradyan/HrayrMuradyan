@@ -7,10 +7,10 @@
 
 ### 🚀 About Me
 
-- 🧠 **Data Scientist** with a strong interest in turning data into actionable results  
-- 📊 Skilled in **machine learning**, **deep learning**, **data analysis**, **statistical analysis** and **visualization**  
-- 💬 Always ready to collaborate on innovative projects  
-- 📝 Currently working on the Capstone project of my Master's in Data Science degree at the University of British Columbia.
+- **Data Scientist** with a strong interest in turning data into actionable results  
+- Skilled in **machine learning**, **deep learning**, **data analysis**, **statistical analysis** and **visualization**  
+- Always ready to collaborate on innovative projects  
+- Currently working on the Capstone project of my Master's in Data Science degree at the University of British Columbia.
 
 <br>
 
